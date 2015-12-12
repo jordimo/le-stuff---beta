@@ -389,8 +389,9 @@ ul li {
 -------------------------------------------------------------------------------*/
 .footer {
 	text-align: left;
-	background-color: #333;
+	background-color: #dedede;
 	padding: 7%;
+	margin-top:10%;
 }
 .footer h4 {
 	color: #fff;
