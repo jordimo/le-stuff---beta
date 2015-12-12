@@ -635,7 +635,7 @@
 		},
 	"\/js\/min\/app-min.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/min\/app-min.js",
 		"outputAbbreviatedPath": "\/js\/min\/min\/app-min-min.js",
@@ -705,9 +705,9 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "adriya-minimal-creative-one-page-bootstrap-template",
+	"displayValue": "beta",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "compass_darkGray"
+	"iconImageName": "brackets_darkGray"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
@@ -897,7 +897,7 @@
 	"javascriptCreateSourceMap": 1,
 	"javascriptOutputStyle": 1,
 	"javascriptSyntaxCheckerStyle": 1,
-	"jsCheckerReservedNamesString": "TimelineLite,TimelineMax,TweenLite,TweenMax,Back,Bounce,Circ,Cubic,Ease,EaseLookup,Elastic,Expo,Linear,Power0,Power1,Power2,Power3,Power3,Power4,Quad,Quart,Quint,RoughEase,Sine,SlowMo,SteppedEase,Strong,Draggable,SplitText,VelocityTracker,CSSPlugin,ThrowPropsPlugin,BezierPlugin\n",
+	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
 		"asi": {
 			"active": 0,

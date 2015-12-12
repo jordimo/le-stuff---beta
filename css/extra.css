@@ -4,14 +4,14 @@
   margin-top:10%;
   justify-content: center;
   align-items: center;
-  height: 300px;
+  height: 150px;
 
 }
 
 .logo_container {
   position: relative;
-  width:300px;
-  height:300px;
+  width:200px;
+  height:200px;
 }
 
 .logo_outline, .logo_full {
